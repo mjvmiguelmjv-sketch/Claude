@@ -6,6 +6,15 @@
         "source": "github",
         "repo": "VoltAgent/awesome-claude-code-subagents"
       }
+    },
+    "thedotmack": {
+      "source": {
+        "source": "github",
+        "repo": "thedotmack/claude-mem"
+      }
     }
+  },
+  "enabledPlugins": {
+    "claude-mem@thedotmack": true
   }
 }
