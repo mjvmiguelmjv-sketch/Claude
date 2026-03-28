@@ -13,5 +13,10 @@
         "repo": "claude-plugins-official/superpowers"
       }
     }
+  },
+  "plugins": {
+    "superpowers": {
+      "marketplace": "claude-plugins-official"
+    }
   }
 }
