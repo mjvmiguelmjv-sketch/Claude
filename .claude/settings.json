@@ -6,6 +6,12 @@
         "source": "github",
         "repo": "VoltAgent/awesome-claude-code-subagents"
       }
+    },
+    "claude-plugins-official": {
+      "source": {
+        "source": "github",
+        "repo": "claude-plugins-official/superpowers"
+      }
     }
   }
 }
