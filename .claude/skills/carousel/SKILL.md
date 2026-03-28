@@ -1,3 +1,8 @@
+---
+name: carousel
+description: Genera carruseles de alta engagement para Instagram, LinkedIn, Pinterest y otras plataformas. Investiga primero estructuras y estilos virales del nicho, planifica slide a slide, y genera el diseño con Canva. Úsalo cuando el usuario quiera crear un carrusel, swipe post, o contenido de múltiples slides.
+---
+
 # Skill: /carousel — Generador de Carruseles con Investigación Previa
 
 ## Propósito

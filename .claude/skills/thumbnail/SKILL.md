@@ -1,3 +1,8 @@
+---
+name: thumbnail
+description: Genera miniaturas de alta conversión para YouTube, Instagram, Pinterest y otras plataformas. Investiga primero qué está funcionando en el nicho y luego genera el diseño perfecto con Canva. Úsalo cuando el usuario quiera crear una miniatura, thumbnail o imagen de portada para contenido.
+---
+
 # Skill: /thumbnail — Generador de Miniaturas con Investigación Previa
 
 ## Propósito
