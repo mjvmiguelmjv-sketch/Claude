@@ -1,6 +1,6 @@
 ---
 name: carousel
-description: Genera carruseles de alta conversión para Instagram, LinkedIn y otras plataformas. Hace investigación profunda de diseño visual Y copy antes de generar. Nivel diseño gráfico extremo + máxima viralidad. Úsalo cuando el usuario quiera crear un carrusel, swipe post, o contenido de múltiples slides.
+description: Genera carruseles de alta conversión para Instagram, LinkedIn y otras plataformas. Investiga diseño visual Y copy, planifica slides, y LO GENERA DIRECTAMENTE EN CANVA. Nivel diseño gráfico extremo + máxima viralidad. Úsalo cuando el usuario quiera crear un carrusel, swipe post, o contenido de múltiples slides.
 ---
 
 # Skill: /carousel — Sistema de Carruseles de Alta Conversión
@@ -9,222 +9,213 @@ description: Genera carruseles de alta conversión para Instagram, LinkedIn y ot
 ```
 /carousel [plataforma] [tema o contenido ya escrito] [condiciones opcionales]
 ```
-Si el usuario pega un texto/newsletter/post existente, conviértelo en carrusel.
-Si no hay suficiente contexto, pregunta: plataforma, tema, audiencia, condiciones visuales.
+Si el usuario pega un texto/newsletter/post existente → conviértelo en carrusel.
+Si no hay suficiente contexto → pregunta: plataforma, tema, audiencia, condiciones visuales.
 
 ---
 
-## PROCESO — SEGUIR EN ORDEN ESTRICTO. NO SALTAR NINGUNA FASE.
+## PROCESO COMPLETO — ORDEN ESTRICTO, SIN SALTARSE NINGUNA FASE
 
 ---
 
-### FASE 1A: INVESTIGACIÓN DE COPY Y ESTRUCTURA
+### FASE 1A: INVESTIGACIÓN DE COPY Y ESTRUCTURA NARRATIVA
 
-Usa `WebSearch` con estas 3 búsquedas:
+Ejecuta estas 3 búsquedas con `WebSearch`:
 1. `"[tema] instagram carousel viral hook structure 2025"`
 2. `"[nicho] swipe post high engagement storytelling formula"`
 3. `"[tema] carousel copy hook best performing examples"`
 
-**Extrae:**
-- Fórmula de hook más usada en ese nicho (pregunta, dato, afirmación contraintuitiva, confesión personal)
-- Estructura narrativa ganadora (¿cómo arranca? ¿cómo desarrolla? ¿cómo cierra?)
-- Tipo de CTA que más convierte en ese nicho
-- Tono dominante (inspiracional, educativo, provocador, vulnerable, directo)
-- Longitud ideal de copy por slide (palabras visibles)
+Extrae:
+- **Hook dominante del nicho**: ¿Confesión personal? ¿Dato disruptivo? ¿Afirmación contraintuitiva? ¿Pregunta incómoda?
+- **Estructura narrativa ganadora**: Cómo arranca, cómo desarrolla, cómo cierra
+- **Tono**: Inspiracional / educativo / provocador / vulnerable / directo / irónico
+- **CTA que más convierte** en ese nicho específico (no genérico)
+- **Longitud de copy por slide**: Palabras visibles óptimas (regla: 10-15 máx)
+- **Slide 2 como segundo hook**: Instagram lo muestra a quien no deslizó el slide 1 — debe funcionar de forma independiente
 
 ---
 
 ### FASE 1B: INVESTIGACIÓN DE DISEÑO VISUAL
 
-Usa `WebSearch` con estas 3 búsquedas:
-1. `"[nicho] instagram carousel design color typography high engagement 2025"`
-2. `"best carousel visual design [plataforma] examples top creators"`
-3. `"[estilo visual del nicho] carousel design system font palette"`
+Ejecuta estas 3 búsquedas con `WebSearch`:
+1. `"[nicho] instagram carousel design visual system high engagement 2025"`
+2. `"best carousel typography color system [plataforma] top creators"`
+3. `"[estilo] carousel dark light minimal bold design examples viral"`
 
-**Extrae y documenta:**
+**Documenta el sistema visual del nicho:**
 
 **TIPOGRAFÍA:**
-- Familia de fuentes dominante (¿sans-serif condensed? ¿serif editorial? ¿display bold?)
-- Jerarquía: ratio título/cuerpo (estándar: 4em/1.5em)
-- Estilo del texto de acento (color, tamaño, cursiva, subrayado)
-- ¿Cuánto texto es visible por slide? (regla: máx 10-15 palabras en pantalla)
+- Familia dominante: ¿sans-serif condensed? ¿serif editorial? ¿display bold?
+- Jerarquía: ratio título/cuerpo (estándar óptimo: 4em títulos / 1.5em cuerpo)
+- Máx. 10-15 palabras visibles por slide — todo lo demás va a la caption
+- Peso: bold para títulos, regular o light para cuerpo, acento en color o italic
 
 **SISTEMA DE COLOR:**
-- Paleta base: fondo + texto + acento (siempre máx 3 colores)
-- Ratio de contraste mínimo requerido (4.5:1 para cumplir legibilidad en móvil)
-- Color psychology del nicho: ¿qué emociones dominan el diseño de los mejores?
-- Modo: ¿dark (fondo oscuro) o light (fondo claro)? ¿Cuál performa mejor en ese nicho?
+- Paleta de 3 máx: fondo + texto + color de acento
+- Contraste mínimo 4.5:1 (legibilidad en móvil)
+- Dark mode vs Light mode: ¿cuál lidera en ese nicho y por qué?
+- Hex codes recomendados basados en lo investigado
 
-**COMPOSICIÓN Y LAYOUT:**
-- ¿Centrado o alineado a la izquierda? (centrado = inspiracional; izquierda = editorial/serio)
-- ¿Hay elementos gráficos recurrentes? (líneas divisoras, iconos, números grandes, marcos)
-- ¿Se usa fotografía, ilustración, o solo tipografía?
-- ¿Cómo se indica que hay más slides? (flecha, texto cortado en el borde, número "1/8")
-- Proporciones: 4:5 (1080×1350px) es el estándar de máximo rendimiento
+**COMPOSICIÓN:**
+- Alineación: centrado (emocional/inspiracional) vs izquierda (editorial/racional)
+- ¿Elementos gráficos recurrentes? Líneas, iconos, números, marcos, flechas
+- ¿Fotografía, ilustración, o solo tipografía?
+- Indicador de siguiente slide: flecha, número "1/8", texto cortado en el borde
 
-**TENDENCIAS 2025 CLAVE:**
-- Slide 2 debe actuar como segundo hook (Instagram lo muestra si no hubo swipe en slide 1)
-- Animaciones sutiles en texto (fade-in por línea) aumentan retención
-- Una sola idea visual por slide: jerarquía información → titular → soporte → acento
-- Consistencia visual entre slides: mismo margen, mismo sistema tipográfico, mismo tratamiento de color
+**FORMATO TÉCNICO:**
+- 4:5 (1080×1350px) = estándar de máximo rendimiento en Instagram 2025
+- Consistencia absoluta entre slides: mismo margen, misma tipografía, misma paleta
 
 ---
 
 ### FASE 1C: PRESENTACIÓN DE INVESTIGACIÓN
 
-Presenta al usuario este resumen antes de continuar:
-
 ```
-## Investigación completada: [tema] para [plataforma]
+## Investigación: [tema] para [plataforma]
 
-### COPY & ESTRUCTURA:
-- Hook recomendado: [tipo + ejemplo]
-- Estructura narrativa: [fórmula]
-- Tono: [descripción]
-- CTA que mejor convierte: [ejemplo]
+COPY Y ESTRUCTURA:
+- Hook recomendado: [tipo + ejemplo real de 1 línea]
+- Estructura narrativa: [fórmula resumida]
+- Tono: [descripción en 3 palabras]
+- CTA óptimo: [ejemplo específico]
 
-### DISEÑO VISUAL:
-- Paleta: Fondo [hex/descripción] + Texto [hex] + Acento [hex]
-- Tipografía: [familia] bold para títulos / [familia] regular para cuerpo
-- Layout: [centrado/izquierda], [dark/light mode]
-- Elementos gráficos: [descripción de motivos visuales]
+SISTEMA VISUAL:
+- Fondo: [hex] | Texto: [hex] | Acento: [hex]
+- Tipografía: [familia] Bold títulos / [familia] Regular cuerpo
+- Layout: [centrado/izquierda] | [dark/light]
+- Elementos gráficos: [descripción]
 - Formato: 4:5 (1080×1350px)
 
-### ESTRATEGIA RECOMENDADA:
-[2-3 frases explicando por qué este enfoque visual+copy ganará en este nicho]
+ESTRATEGIA:
+[2 frases: por qué este sistema visual+copy funciona en este nicho]
 ```
 
 ---
 
-### FASE 2: PLANIFICACIÓN DE CONTENIDO + DISEÑO
+### FASE 2: PLANIFICACIÓN SLIDE A SLIDE CON COPY OPTIMIZADO
 
-Crea el esqueleto completo con contenido Y decisiones visuales por slide:
+Construye el esqueleto completo. Para cada slide especifica copy exacto + descripción visual:
 
 ```
 ## Carrusel: "[Título]" — [N] slides — [plataforma]
-Sistema visual: [paleta resumida] | [tipografía] | [layout]
+Sistema: [paleta] | [tipografía] | [layout]
 
-─────────────────────────────────────
-SLIDE 1 — PORTADA / HOOK
-─────────────────────────────────────
-Copy: "[texto exacto del slide]"
-Subtexto: "[texto secundario si aplica]"
-Visual: [descripción específica del diseño — fondo, posición texto, elemento gráfico]
-Objetivo: Detener el scroll / crear curiosidad / establecer promesa
+SLIDE 1 — PORTADA / HOOK PRINCIPAL
+Copy: "[texto exacto — el hook más fuerte]"
+Subtexto: "[si aplica]"
+Visual: [fondo, posición texto, elemento gráfico, tratamiento tipográfico]
+Objetivo: Parar el scroll en 1.5 segundos
 
-─────────────────────────────────────
-SLIDE 2 — SEGUNDO HOOK (CRÍTICO: Instagram lo muestra si no hubo swipe)
-─────────────────────────────────────
-Copy: "[texto exacto]"
+SLIDE 2 — SEGUNDO HOOK (Instagram lo muestra si no hubo swipe)
+Copy: "[texto que funciona de forma independiente]"
 Visual: [descripción]
-Objetivo: Re-enganchar al que no deslizó en slide 1
+Objetivo: Segunda oportunidad de enganchar
 
-─────────────────────────────────────
 SLIDE 3-N — DESARROLLO
-─────────────────────────────────────
-[Para cada slide:]
 Copy: "[texto exacto — máx 15 palabras visibles]"
-Visual: [descripción del diseño de ese slide]
-Objetivo: [qué debe lograr este slide]
+Visual: [descripción específica]
+Tensión: [¿por qué el lector quiere pasar al siguiente?]
 
-─────────────────────────────────────
 SLIDE FINAL — CTA
-─────────────────────────────────────
-Copy: "[CTA específico y de baja fricción]"
-Visual: [descripción — normalmente más denso o con elemento de marca]
-Objetivo: Acción concreta (guardar, comentar, seguir, ir a bio)
+Copy: "[acción específica y de baja fricción]"
+Visual: [elemento de marca, firma, link visual]
+Objetivo: Guardar / comentar / ir a bio
 ```
-
-**PREGUNTA AL USUARIO si aprueba la estructura antes de generar.**
 
 ---
 
-### FASE 3: ANÁLISIS Y MEJORA DE COPY (OBLIGATORIO)
+### FASE 3: ANÁLISIS Y MEJORA DE COPY
 
-Antes de generar el diseño, ejecuta este análisis sobre el copy de cada slide:
+Antes de generar, aplica este checklist a cada slide:
 
-**CHECKLIST DE COPY POR SLIDE:**
-- [ ] ¿El hook (slide 1) usa una de estas técnicas? → pregunta incómoda / dato sorprendente / confesión personal / afirmación contraintuitiva / cliffhanger
-- [ ] ¿Cada slide tiene UNA sola idea? (no dos conceptos mezclados)
-- [ ] ¿El texto visible es máx 10-15 palabras?
-- [ ] ¿Hay tensión narrativa entre slides? (¿el usuario QUIERE pasar al siguiente?)
-- [ ] ¿El CTA es específico y de baja fricción? (NO "sígueme" → SÍ "Guarda esto si lo necesitas")
-- [ ] ¿El tono es consistente en todos los slides?
+**HOOK (slide 1):**
+- [ ] ¿Usa una de estas técnicas? → confesión personal / dato disruptivo / pregunta incómoda / afirmación contraintuitiva / cliffhanger
+- [ ] ¿Se lee y entiende en menos de 2 segundos?
+- [ ] ¿Genera tensión o curiosidad que obliga a deslizar?
 
-**Si detectas copy débil, REESCRIBE antes de generar.** Presenta la versión mejorada al usuario con explicación del cambio.
+**CADA SLIDE:**
+- [ ] ¿Una sola idea? (si hay dos → dividir en dos slides)
+- [ ] ¿Máx 10-15 palabras visibles?
+- [ ] ¿Hay tensión hacia el siguiente slide? (¿el lector NECESITA saber qué sigue?)
+- [ ] ¿El tono es consistente con el slide anterior?
 
-**Frameworks de copy a aplicar según objetivo:**
-- **Educativo**: Hook dato → Concepto → 3-5 puntos → Síntesis → CTA guardar
+**CTA FINAL:**
+- [ ] ¿Es específico? ("guarda esto" > "sígueme")
+- [ ] ¿Conecta emocionalmente con el contenido?
+- [ ] ¿La acción cuesta poco hacerla?
+
+**Si hay slides débiles, reescribe el copy ANTES de pasar a la generación.**
+
+**Frameworks aplicables según tipo de contenido:**
 - **Storytelling personal**: Situación → Tensión → Insight → Aplicación → CTA reflexión
-- **Transformación**: Antes (dolor) → Punto de inflexión → Después (resultado) → CTA
-- **Provocador/Opinión**: Afirmación fuerte → Por qué → Evidencia → Implicación → CTA debate
+- **Educativo**: Hook dato → Concepto → 3-5 puntos → Síntesis → CTA guardar
+- **Provocador/opinión**: Afirmación fuerte → Por qué → Evidencia → Implicación → CTA debate
+- **Transformación**: Antes (dolor) → Inflexión → Después (resultado) → CTA
 
 ---
 
-### FASE 4: GENERACIÓN CON CANVA
+### FASE 4: GENERACIÓN EN CANVA — OBLIGATORIA, SIEMPRE
 
-Construye el query más detallado posible. **Nunca usar queries genéricos.**
+**PARA CARRUSELES MULTI-SLIDE (formato presentación):**
 
-**Para carruseles educativos/mindset en Instagram → usar `presentation`:**
+Usa `request-outline-review` con:
+- `topic`: título del carrusel (máx 150 chars)
+- `audience`: `"casual"` para Instagram lifestyle/mindset, `"professional"` para LinkedIn
+- `style`: `"minimalist"` (dark/clean), `"elegant"` (premium), `"bold"` (impactante), `"digital"` (tech/moderno)
+- `length`: `"balanced"` para 5-15 slides
+- `pages`: array con cada slide → `title` = copy exacto del slide, `description` = instrucciones visuales detalladas para Canva
+
+**Estructura de cada `description` en pages:**
 ```
-[N]-slide Instagram carousel (4:5 format, 1080x1350px) for [nicho/tema].
-Visual system: [dark/light] background [hex o descripción], [acento color] accent, white/black text.
-Typography: Bold [sans-serif/serif] for headlines, clean regular weight for body. High contrast 4.5:1+.
-Layout: [centered/left-aligned], generous white space, one idea per slide.
-Slide 1 cover: "[texto exacto del hook]" — [descripción visual específica].
-Slide 2: "[texto exacto]" — [descripción visual].
-[...resto de slides...]
-Final slide CTA: "[texto exacto del CTA]" — [descripción visual].
-Consistent visual motif: [elemento recurrente — número, línea, ícono, etc.].
-Style: [editorial/minimal/bold/etc.]. Professional, high-engagement, optimized for mobile scroll.
+"[Descripción visual específica del slide]. Fondo [color/hex]. Texto '[copy exacto]' en tipografía [bold/regular/display], tamaño [grande/mediano/pequeño], color [blanco/acento/hex]. [Elemento gráfico si aplica: icono, línea, número, flecha]. Layout [centrado/izquierda]. [Emoción o atmosfera que debe transmitir]. Máx 15 palabras visibles."
 ```
 
-**Parámetros del tool `generate-design`:**
-- `design_type`: `presentation` (carruseles multi-slide) o `instagram_post` (si es un concepto visual único)
-- `query`: el query detallado construido arriba
-- Si el usuario tiene brand kit: usar `list-brand-kits` primero y preguntar
+**IMPORTANTE:** Tras el outline review, el usuario aprueba → llamas a `generate-design-structured` con los mismos parámetros.
+
+**PARA POST ÚNICO TIPO CARRUSEL (1 slide impactante):**
+Usa `generate-design` con `design_type: "instagram_post"` y query ultra-detallado con hex codes, tipografía, copy exacto y composición.
 
 ---
 
-### FASE 5: PRESENTACIÓN, SELECCIÓN Y EXPORTACIÓN
+### FASE 5: CONVERSIÓN A DISEÑO EDITABLE
 
-1. Muestra los candidatos generados
-2. Para cada candidato, describe brevemente qué lo diferencia visualmente
-3. El usuario elige → `create-design-from-candidate`
-4. Preguntar si quiere exportar → `export-design`
-5. Recordar: publicar el carrusel → luego subir el slide 1 a Stories con sticker "desliza"
+Tras la generación:
+1. El usuario elige el candidato preferido
+2. Llama a `create-design-from-candidate` con `job_id` y `candidate_id`
+3. Pregunta si quiere exportar → `export-design`
+4. **Tip de distribución**: Subir slide 1 a Stories con sticker "desliza →" en las primeras 2h de publicación
 
 ---
 
 ### FASE 6: ITERACIÓN INTELIGENTE
 
-Si el resultado no satisface, diagnostica:
-- ¿El problema es el diseño visual? → Ajustar paleta/tipografía en el query y regenerar
-- ¿El problema es el copy? → Reescribir slides específicos
-- ¿El problema es la estructura? → Rediseñar esqueleto
-- ¿Quiere editar elementos puntuales? → `start-editing-transaction` + `perform-editing-operations`
-- Máximo 3 iteraciones completas antes de proponer empezar desde cero con otra dirección visual
+Diagnóstica antes de regenerar:
+- **Problema de diseño visual** → Ajustar hex codes, tipografía, composición en las descriptions y regenerar
+- **Problema de copy** → Reescribir slides específicos (Fase 3) y regenerar
+- **Problema de estructura** → Rediseñar esqueleto completo
+- **Ediciones puntuales** → `start-editing-transaction` + `perform-editing-operations`
+- Máx 3 iteraciones completas → si no funciona, proponer dirección visual completamente diferente
 
 ---
 
-## SISTEMA DE TIPOS Y DESIGN_TYPE
+## TABLA DE DECISIÓN: design_type y herramienta
 
-| Formato | Plataforma | design_type |
-|---------|------------|-------------|
-| Carrusel educativo swipe | Instagram | `presentation` |
-| Post único impactante | Instagram | `instagram_post` |
-| Carrusel profesional | LinkedIn | `presentation` |
-| Story secuencial | Instagram/TikTok | `your_story` |
-| Infografía expandida | Instagram/Pinterest | `infographic` |
+| Formato | Plataforma | Herramienta | design_type / approach |
+|---------|------------|-------------|----------------------|
+| Carrusel multi-slide | Instagram | `request-outline-review` → `generate-design-structured` | presentation |
+| Carrusel profesional | LinkedIn | `request-outline-review` → `generate-design-structured` | presentation |
+| Post único impactante | Instagram | `generate-design` | instagram_post |
+| Story secuencial | Instagram | `generate-design` | your_story |
+| Infografía | Instagram/Pinterest | `generate-design` | infographic |
 
 ---
 
-## REGLAS ABSOLUTAS DEL SISTEMA
+## REGLAS ABSOLUTAS
 
-1. **NUNCA generar sin completar Fase 1A + 1B**. El diseño sin investigación es mediocre.
-2. **NUNCA usar queries genéricos en Canva**. Cada query debe contener hex codes, tipografías, y copy exacto.
-3. **NUNCA saltar la aprobación de estructura** (Fase 2). El usuario debe ver el esqueleto.
-4. **SIEMPRE revisar el copy** (Fase 3) antes de generar. El diseño amplifica el copy, no lo sustituye.
-5. **Slide 2 = segundo hook**. No es el "slide 2 del contenido". Es otra oportunidad de enganchar.
-6. **Una idea por slide**. Si hay dos conceptos, son dos slides.
-7. **CTA específico y de baja fricción**. "Sígueme" es el CTA más débil posible.
+1. **SIEMPRE investigar antes de generar** (Fases 1A + 1B). Sin investigación = diseño genérico.
+2. **SIEMPRE generar en Canva**. Este skill siempre termina con una pieza visual real en Canva.
+3. **SIEMPRE incluir hex codes y copy exacto** en las descriptions del outline. Canva necesita instrucciones precisas.
+4. **Slide 2 = segundo hook independiente**. No es "el slide 2 del contenido".
+5. **Una idea por slide**. Dos conceptos = dos slides.
+6. **CTA específico y de baja fricción**. "Sígueme" = CTA muerto.
+7. **NUNCA presentar el outline en texto plano** — siempre llamar a `request-outline-review` para que el usuario lo vea en el widget.

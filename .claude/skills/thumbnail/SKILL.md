@@ -1,6 +1,6 @@
 ---
 name: thumbnail
-description: Genera miniaturas de máximo CTR para YouTube, Instagram, Pinterest y otras plataformas. Investiga diseño visual extremo y psicología del click antes de generar con Canva. Nivel diseño gráfico profesional + máxima viralidad. Úsalo cuando el usuario quiera crear una miniatura, thumbnail, portada o imagen de preview.
+description: Genera miniaturas de máximo CTR para YouTube, Instagram, Pinterest y otras plataformas. Investiga diseño visual extremo y psicología del click, construye brief detallado, y LO GENERA DIRECTAMENTE EN CANVA. Nivel diseño gráfico profesional + máxima viralidad. Úsalo cuando el usuario quiera crear una miniatura, thumbnail, portada o imagen de preview.
 ---
 
 # Skill: /thumbnail — Sistema de Miniaturas de Máximo CTR
@@ -9,195 +9,200 @@ description: Genera miniaturas de máximo CTR para YouTube, Instagram, Pinterest
 ```
 /thumbnail [plataforma] [tema/título del contenido] [condiciones opcionales]
 ```
-Condiciones opcionales: sin cara, con cara, estilo, colores, texto específico, emoción, etc.
-
-Si falta contexto, pregunta: plataforma, tema exacto del contenido, audiencia objetivo.
-
----
-
-## PROCESO — SEGUIR EN ORDEN ESTRICTO. NO SALTAR NINGUNA FASE.
+Condiciones opcionales: sin cara, con cara, estilo, colores, texto específico, emoción objetivo.
+Si falta contexto esencial → pregunta: plataforma, tema exacto, audiencia.
 
 ---
 
-### FASE 1A: INVESTIGACIÓN DE PATRONES VISUALES EN EL NICHO
+## PROCESO COMPLETO — ORDEN ESTRICTO, SIN SALTARSE NINGUNA FASE
 
-Usa `WebSearch` con estas 3 búsquedas:
+---
+
+### FASE 1A: INVESTIGACIÓN DE PATRONES VISUALES DEL NICHO
+
+Ejecuta estas 3 búsquedas con `WebSearch`:
 1. `"[tema] YouTube thumbnail best CTR 2025 design examples"`
-2. `"[nicho] thumbnail color psychology high click-through rate"`
-3. `"[tema] viral thumbnail design breakdown [plataforma]"`
+2. `"[nicho] thumbnail color psychology high click-through viral"`
+3. `"[tema] thumbnail design breakdown what works [plataforma]"`
 
 **Extrae y documenta:**
 
 **COLORES Y CONTRASTE:**
-- Colores dominantes en el top 10 del nicho (¿warm o cool tones?)
-- Combinaciones de alto contraste más usadas (ej: rojo/amarillo, azul/naranja, negro/verde lima)
-- Color de fondo predominante (¿oscuro, claro, gradiente, color sólido?)
-- La plataforma YouTube tiene fondo blanco/gris → los thumbnails que más destacan evitan ese espacio muerto y usan colores saturados
-- Test de escala de grises: si no hay contraste en grises, falla en pantallas oscuras/claras
+- Combinaciones dominantes en top thumbnails del nicho
+- ¿Warm tones (rojo, naranja, amarillo) o cool tones (azul, verde, púrpura)?
+- YouTube tiene interfaz blanco/gris → thumbnails que más destacan usan colores saturados
+- Combinaciones de alto CTR probadas: Rojo/Amarillo, Azul/Naranja, Negro/Verde Lima, Púrpura/Dorado
+- Test de escala de grises: si sin color no hay contraste, falla en pantallas con bajo brillo
 
-**TIPOGRAFÍA:**
-- ¿Hay texto en el thumbnail? (regla: máx 3-5 palabras)
-- Estilo tipográfico dominante (bold condensed, impacto, fuentes display, serif dramático)
-- Posición del texto: zona superior (evitar zona inferior derecha → ahí va el timestamp de YouTube)
-- Función del texto: amplificar curiosidad, NO resumir el vídeo
-- Power words más usados en el nicho: "secreto", "nunca", "finalmente", "error", "esto", números grandes
+**TIPOGRAFÍA EN THUMBNAIL:**
+- ¿Hay texto? (regla: máx 3-5 palabras — es un hook, no un resumen)
+- Estilo: bold condensed, impact, display, serif dramático
+- Posición: zona superior o central (NUNCA zona inferior derecha = timestamp YouTube)
+- Power words dominantes del nicho: "secreto", "nunca", "finalmente", "error", "esto cambia todo", números grandes
 
-**COMPOSICIÓN:**
-- ¿Hay cara humana? (thumbnails con cara genuinamente emocional superan en 25-30% al resto)
-- Expresión facial dominante: ¿sorpresa? ¿confusión? ¿urgencia? ¿miedo? (2025: expresiones "relatable" superan a las exageradas "YouTube face")
-- Mirada a cámara o hacia elemento del diseño (mirada directa = conexión; mirada al objeto = dirige atención)
-- ¿Cuántos focos de atención hay? (regla: máximo 2 — sujeto principal + texto o elemento visual)
-- Técnica de composición: ¿regla de tercios? ¿centrado? ¿asimétrico con elemento cortado?
+**COMPOSICIÓN Y PSICOLOGÍA:**
+- ¿Cara humana? (thumbnails con cara emocional: +25-30% CTR según A/B tests 2025)
+- Expresión facial: genuina y relatable supera a la exagerada "YouTube face" en 73% de casos
+- Mirada directa a cámara = conexión; mirada hacia elemento = dirige atención del espectador
+- Regla de los 2 focos máximos: sujeto principal + texto/elemento secundario. Más = clutter
+- Curiosity gap: mostrar el "qué" pero ocultar el "cómo" → +50% CTR potencial
+- Efecto Zeigarnik: acción en progreso > resultado final (el cerebro necesita cerrar el loop)
+- Juxtaposición: contrastes visuales/conceptuales que crean tensión cognitiva
 
-**PSICOLOGÍA DEL CLICK:**
-- ¿Se usa curiosity gap? (mostrar el "qué" pero ocultar el "cómo")
-- ¿Se usa el efecto Zeigarnik? (mostrar acción en progreso, no el resultado final)
-- ¿Hay juxtaposición? (contrastes visuales o conceptuales que generan tensión)
-- ¿Qué emoción predominante hace que el espectador haga click?
+**BENCHMARKS TÉCNICOS:**
+- Tiempo de decisión del espectador: 1.8 segundos
+- Contraste ratio mínimo para móvil: 4.5:1
+- 69% del tráfico YouTube es móvil → elementos grandes, sin texto diminuto
+- Thumbnails con cara reciben hasta 921.000 vistas más de media (2025)
 
 ---
 
-### FASE 1B: ANÁLISIS DE COMPETENCIA DIRECTA
+### FASE 1B: ANÁLISIS DE COMPETENCIA DEL NICHO
 
-Usa `WebSearch`:
-1. `"top [nicho] YouTubers thumbnail style comparison"`
-2. `"[nicho] thumbnail A/B test winner what works"`
+Ejecuta con `WebSearch`:
+1. `"top [nicho] YouTubers thumbnail style what makes them work"`
+2. `"[nicho] YouTube thumbnail A/B test winner 2025"`
 
-Extrae: qué diferencia visualmente los thumbnails de alto CTR de los de bajo CTR en este nicho específico.
+Extrae: qué diferencia visualmente los thumbnails de alto CTR de los de bajo CTR en este nicho específico. Busca el patrón que se repite en los top 10.
 
 ---
 
 ### FASE 1C: PRESENTACIÓN DE INVESTIGACIÓN
 
 ```
-## Investigación completada: miniatura para [tema] en [plataforma]
+## Investigación: thumbnail [plataforma] para "[tema]"
 
-### SISTEMA DE COLOR RECOMENDADO:
-- Fondo: [color/hex] — por qué: [justificación basada en datos]
-- Texto: [color/hex]
-- Acento: [color/hex]
-- Contraste ratio estimado: [ratio]:1 (mínimo 4.5:1 para móvil)
+SISTEMA DE COLOR RECOMENDADO:
+- Fondo: [hex/descripción] — justificación basada en datos
+- Elemento principal: [hex/descripción]
+- Texto: [hex] + contraste estimado [X]:1
+- Combinación de contraste: [par de colores recomendado]
 
-### TIPOGRAFÍA:
-- Estilo: [descripción]
+TIPOGRAFÍA:
+- Estilo: [descripción específica]
 - Texto propuesto: "[máx 5 palabras]"
-- Posición: [zona del thumbnail]
-- Power word a usar: [palabra]
+- Power word: [palabra + por qué funciona en este nicho]
+- Posición: [zona exacta del thumbnail]
 
-### COMPOSICIÓN:
-- Elemento principal: [descripción]
-- ¿Cara? [sí/no + tipo de expresión si aplica]
-- Foco de atención: [descripción del layout]
-- Técnica psicológica: [curiosity gap / Zeigarnik / juxtaposición / otra]
+COMPOSICIÓN:
+- Elemento principal: [descripción visual]
+- ¿Cara? [sí/no + expresión si aplica]
+- Focos de atención: [descripción — máx 2]
+- Técnica psicológica: [curiosity gap / Zeigarnik / juxtaposición / emoción]
 
-### THUMBNAILS DE REFERENCIA DEL NICHO:
-[Descripción de 2-3 thumbnails de alto rendimiento identificados, con sus patrones]
+PATRONES DEL NICHO:
+[2-3 patrones específicos identificados en thumbnails de alto rendimiento]
 
-### ESTRATEGIA RECOMENDADA:
-[2-3 frases: por qué esta combinación visual+psicología ganará en este nicho]
+ESTRATEGIA:
+[2 frases: combinación visual+psicología que ganará en este nicho específico]
 ```
 
 ---
 
-### FASE 2: CONSTRUCCIÓN DEL BRIEF VISUAL
+### FASE 2: BRIEF DE 3 VARIACIONES
 
-Define los 3 conceptos de thumbnail a generar (siempre generar 3 variaciones con enfoques distintos):
+Genera siempre 3 conceptos con enfoques distintos:
 
 ```
-## Variación A — [nombre del concepto]
-Enfoque visual: [descripción]
-Texto en thumbnail: "[texto exacto]"
-Elemento principal: [qué domina visualmente]
+VARIACIÓN A — [nombre concepto]
+Enfoque: [descripción del ángulo visual]
+Texto overlay: "[texto exacto]"
+Elemento principal: [descripción visual dominante]
+Técnica psicológica: [la que usa]
 Emoción objetivo: [qué siente el espectador]
 
-## Variación B — [nombre del concepto]
+VARIACIÓN B — [nombre concepto]
 [...]
 
-## Variación C — [nombre del concepto]
+VARIACIÓN C — [nombre concepto]
 [...]
 ```
 
-Presenta al usuario y pregunta si quiere ajustar antes de generar.
+Pregunta al usuario si quiere ajustar alguna variación antes de generar.
 
 ---
 
-### FASE 3: GENERACIÓN CON CANVA
+### FASE 3: GENERACIÓN EN CANVA — OBLIGATORIA, SIEMPRE
 
-Genera las variaciones con queries ultra-detallados. **Nunca queries genéricos.**
+Usa `generate-design` para cada variación. Query ultra-detallado con hex codes, tipografía específica, copy exacto y descripción de composición.
 
-**Estructura del query para cada variación:**
+**Estructura del query para máximo resultado:**
 ```
-[Plataforma] thumbnail for "[tema del contenido]".
-Main visual: [descripción del elemento principal — sujeto, objeto, fondo].
-Face/expression: [si aplica — expresión específica, mirada a cámara/elemento].
-Color system: [fondo en hex/descripción], [acento en hex/descripción], high contrast 4.5:1+.
-Text overlay: "[texto exacto — máx 5 palabras]" in [zona: upper third / center / left].
-Bold [tipo de fuente], [color del texto], high visibility.
-Composition: [regla de tercios / centrado / asimétrico].
-Psychology: [curiosity gap / tension / urgency / surprise].
-Style: [hiperrealista / ilustración / flat design / foto+gráfico / full design].
-Mobile-optimized: large readable elements, no clutter, instant visual impact.
-DO NOT place text in bottom-right corner (YouTube timestamp area).
+[Plataforma] thumbnail for "[tema exacto del contenido]".
+
+MAIN VISUAL: [descripción detallada del elemento principal — sujeto, objeto, escena].
+FACE/EXPRESSION: [si aplica — expresión específica relatable, direct eye contact / looking at element].
+BACKGROUND: [hex color o descripción] — high saturation to stand out against YouTube's white/gray interface.
+COLOR SYSTEM: [color principal hex], [color acento hex], [color texto hex]. Contrast ratio 4.5:1 minimum.
+TEXT OVERLAY: "[texto exacto — máx 5 palabras]" positioned in [upper third / center / left side].
+TYPOGRAPHY: Bold condensed [sans-serif/display/impact style], [color del texto], large and highly legible at small sizes.
+COMPOSITION: [rule of thirds / centered / asymmetric]. Maximum 2 focal points.
+PSYCHOLOGY: [curiosity gap showing X but hiding Y / Zeigarnik effect: action in progress / visual juxtaposition of A and B].
+STYLE: [hyperrealistic photo / graphic design / photo+text overlay / illustration + text].
+MOBILE OPTIMIZATION: Large elements, bold contrast, instant visual impact in 1.8 seconds.
+DO NOT place text in bottom-right corner (YouTube timestamp overlay position).
+DO NOT add more than 2 focal points — clutter kills CTR.
 ```
 
-**Parámetro `design_type`:**
+**design_type según plataforma:**
 - YouTube → `youtube_thumbnail`
 - Instagram feed → `instagram_post`
 - Pinterest → `pinterest_pin`
-- Instagram/TikTok Stories → `your_story`
+- Stories → `your_story`
 - Twitter/X → `twitter_post`
 
 ---
 
-### FASE 4: TEST DE CALIDAD (antes de presentar al usuario)
+### FASE 4: TEST DE CALIDAD ANTES DE PRESENTAR
 
-Para cada candidato generado, aplica mentalmente este checklist:
+Para cada candidato generado, aplica mentalmente:
 
-**TEST DE 1.8 SEGUNDOS** (tiempo promedio de atención):
-- [ ] ¿Se entiende de qué trata en menos de 2 segundos?
-- [ ] ¿El elemento principal destaca inmediatamente?
-- [ ] ¿El texto es legible en tamaño miniatura (10% del tamaño real)?
+**TEST DE 1.8 SEGUNDOS:**
+- [ ] ¿Se entiende el tema en menos de 2 segundos?
+- [ ] ¿El elemento principal es lo primero que ve el ojo?
+- [ ] ¿El texto es legible al 10% del tamaño real (miniatura en feed)?
 
 **TEST DE CONTRASTE:**
-- [ ] ¿El texto tiene suficiente contraste con el fondo?
-- [ ] ¿Funciona en modo oscuro y claro?
-- [ ] ¿Pasa el test de escala de grises? (¿sigue teniendo contraste sin color?)
+- [ ] ¿El texto contrasta suficientemente con el fondo?
+- [ ] ¿Hay contraste incluso en escala de grises?
+- [ ] ¿Funciona en móvil con brillo bajo?
 
-**TEST DE MÓVIL:**
-- [ ] ¿Los elementos son suficientemente grandes para pantalla pequeña?
-- [ ] ¿No hay texto en la esquina inferior derecha?
-- [ ] ¿Hay como máximo 2 focos de atención?
+**TEST DE REGLAS:**
+- [ ] ¿Hay texto en la esquina inferior derecha? (si sí → fallo crítico)
+- [ ] ¿Hay más de 2 focos de atención? (si sí → simplificar)
+- [ ] ¿Hay más de 5 palabras de texto? (si sí → reducir)
 
-Informa al usuario si algún candidato falla algún test.
+Informa al usuario si algún candidato falla un test crítico.
 
 ---
 
-### FASE 5: PRESENTACIÓN, SELECCIÓN Y EXPORTACIÓN
+### FASE 5: SELECCIÓN Y EXPORTACIÓN
 
-1. Muestra los candidatos con descripción de sus diferencias clave
+1. Presenta candidatos describiendo en 1 línea qué diferencia a cada uno
 2. Usuario elige → `create-design-from-candidate`
 3. Exportar → `export-design`
-4. Recomendación: probar 2 variaciones con YouTube Test & Compare si es posible
+4. Recomendar A/B test si YouTube: subir 2 variaciones y comparar CTR en las primeras 48h
 
 ---
 
 ### FASE 6: ITERACIÓN INTELIGENTE
 
-- Expresión/composición → Ajustar descripción del sujeto en el query
-- Colores → Cambiar hex codes en el query, regenerar
-- Texto → Reescribir el overlay text con nuevas power words
-- Estilo → Cambiar el style descriptor en el query
-- Máximo 3 iteraciones antes de proponer dirección visual completamente diferente
+- **Expresión/composición débil** → Ajustar descripción del sujeto, añadir más especificidad emocional
+- **Colores no destacan** → Cambiar a combinación de mayor contraste, añadir saturación
+- **Texto no legible** → Aumentar tamaño, cambiar color, añadir sombra o backdrop
+- **CTR bajo tras publicar** → Analizar qué variación A/B ganó y extraer el patrón
+- Máx 3 iteraciones completas → Si no funciona, cambiar enfoque psicológico completamente
 
 ---
 
-## REGLAS ABSOLUTAS DEL SISTEMA
+## REGLAS ABSOLUTAS
 
-1. **NUNCA generar sin completar Fase 1A + 1B**. Un thumbnail sin investigación es genérico.
-2. **SIEMPRE generar 3 variaciones** con enfoques distintos. El usuario elige con datos.
-3. **NUNCA texto en zona inferior derecha** (timestamp de YouTube lo cubre).
-4. **NUNCA más de 5 palabras** en el texto del thumbnail.
-5. **NUNCA más de 2 focos de atención**. El clutter mata el CTR.
-6. **SIEMPRE aplicar el test de 1.8 segundos** antes de presentar candidatos.
-7. El texto amplifica curiosidad. **NUNCA resume el contenido del vídeo**.
-8. Las expresiones faciales genuinas superan a las exageradas. Indicarlo siempre en el query.
+1. **SIEMPRE investigar antes de generar** (Fases 1A + 1B). Sin datos = thumbnail genérico.
+2. **SIEMPRE generar en Canva**. Este skill termina con un diseño real, no con texto.
+3. **SIEMPRE 3 variaciones** con enfoques distintos. El usuario elige con opciones reales.
+4. **NUNCA texto en zona inferior derecha** — el timestamp de YouTube lo cubre.
+5. **NUNCA más de 5 palabras** de texto en el thumbnail.
+6. **NUNCA más de 2 focos de atención** — el clutter destruye el CTR.
+7. **SIEMPRE aplicar el test de 1.8 segundos** antes de presentar candidatos.
+8. **El texto amplifica curiosidad, nunca resume el vídeo.**
+9. Expresiones faciales genuinas y relatables > expresiones teatrales exageradas.

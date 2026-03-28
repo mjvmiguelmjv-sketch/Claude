@@ -1,241 +1,274 @@
 ---
 name: copy
-description: Analiza y optimiza copy para redes sociales, carruseles, newsletters, thumbnails y cualquier contenido digital. Detecta fallos en hooks, estructura y CTA. Reescribe con frameworks probados para máximo engagement e impacto. Úsalo cuando el usuario quiera mejorar un texto, post, email, guion o cualquier copy existente.
+description: Analiza y optimiza copy para redes sociales, carruseles, newsletters, thumbnails y cualquier contenido digital. Diagnóstico en 8 dimensiones, reescritura con frameworks probados, 3 versiones de hook alternativas. Siempre entrega el copy optimizado listo para usar o para generar diseño en Canva. Úsalo cuando el usuario quiera mejorar un texto, post, email, guion o cualquier copy existente.
 ---
 
-# Skill: /copy — Sistema de Optimización de Copy
+# Skill: /copy — Sistema de Optimización de Copy para Máximo Impacto
 
 ## Cómo invocar
 ```
-/copy [texto a analizar] [plataforma/formato] [objetivo: engagement/conversión/viralidad/autoridad]
+/copy [texto a analizar] [plataforma/formato] [objetivo]
 ```
-
-El usuario puede pegar directamente el texto. Si no especifica plataforma u objetivo, pregunta antes de analizar.
-
----
-
-## PROCESO — SEGUIR EN ORDEN ESTRICTO
+Objetivos posibles: engagement, viralidad, conversión, autoridad, saves, comentarios.
+Si el usuario pega un texto sin especificar más → analiza, diagnostica y pregunta el objetivo antes de reescribir.
 
 ---
 
-### FASE 1: DIAGNÓSTICO PROFUNDO
+## PROCESO COMPLETO — ORDEN ESTRICTO
 
-Analiza el texto del usuario identificando estos 8 elementos críticos:
+---
 
-**1. HOOK (APERTURA)**
-- ¿Qué tipo de hook usa actualmente? (pregunta / dato / confesión / afirmación / sin hook definido)
-- Puntuación: ¿Para el scroll en 1-3 segundos? (1-10)
-- Problema detectado: [descripción específica del fallo si existe]
+### FASE 1: DIAGNÓSTICO EN 8 DIMENSIONES
 
-**2. PROMESA DE VALOR**
-- ¿Queda claro qué gana el lector si sigue leyendo?
-- ¿Está en los primeros 15 segundos de lectura?
-- Problema detectado: [si no está clara o llega demasiado tarde]
+Lee el texto completo del usuario y evalúa cada dimensión:
 
-**3. ESTRUCTURA NARRATIVA**
-- ¿Hay un arco emocional? (situación → tensión → resolución)
-- ¿Cada párrafo/slide lleva al siguiente? (¿hay tensión entre secciones?)
-- ¿La información fluye o hay saltos de lógica?
-- Problema detectado: [descripción]
+**D1 — HOOK (Los primeros 3 segundos)**
+- ¿Qué tipo de hook usa? Confesión / dato / pregunta / afirmación / sin hook definido
+- ¿Para el scroll instantáneamente o requiere esfuerzo?
+- ¿El primer párrafo/línea obliga a seguir leyendo?
+- Puntuación: [X]/10 — con descripción del fallo si existe
 
-**4. ESPECIFICIDAD**
-- ¿Hay datos concretos, ejemplos específicos, o todo es abstracto?
-- ¿Los conceptos están ilustrados con situaciones reales?
-- Problema detectado: [qué queda vago o genérico]
+**D2 — PROMESA DE VALOR**
+- ¿Queda claro qué gana el lector en los primeros 15 segundos de lectura?
+- ¿La promesa es específica o vaga?
+- Puntuación: [X]/10
 
-**5. CARGA EMOCIONAL**
-- ¿Qué emoción principal activa? (curiosidad / miedo / esperanza / orgullo / vergüenza / inspiración)
+**D3 — TENSIÓN NARRATIVA**
+- ¿Hay arco emocional? (situación → tensión → resolución)
+- ¿Cada sección arrastra hacia la siguiente?
+- ¿Hay momentos de "necesito saber qué sigue"?
+- Puntuación: [X]/10
+
+**D4 — ESPECIFICIDAD**
+- ¿Hay datos concretos, ejemplos reales, situaciones específicas?
+- ¿O todo es abstracto y genérico?
+- Regla: lo específico es creíble; lo genérico es invisible
+- Puntuación: [X]/10
+
+**D5 — CARGA EMOCIONAL**
+- ¿Qué emoción principal activa? Curiosidad / miedo / esperanza / orgullo / vergüenza / inspiración
 - ¿Es suficientemente fuerte para impulsar acción?
-- Problema detectado: [si la emoción es débil o inconsistente]
+- ¿La emoción es consistente o cambia sin lógica?
+- Puntuación: [X]/10
 
-**6. FRICCIÓN DE LECTURA**
-- ¿Hay párrafos demasiado largos para la plataforma?
-- ¿Hay jerga o términos que alejan al lector?
-- ¿El ritmo del texto es adecuado? (variación de longitud de frases)
-- Problema detectado: [descripción]
+**D6 — FRICCIÓN DE LECTURA**
+- ¿Párrafos demasiado largos para la plataforma?
+- ¿Jerga que aleja al lector objetivo?
+- ¿Variación en longitud de frases? (el ritmo también es copy)
+- ¿Formato adecuado? (espaciado, listas, saltos de línea)
+- Puntuación: [X]/10
 
-**7. CTA (LLAMADA A LA ACCIÓN)**
-- ¿Existe un CTA claro?
-- ¿Es específico o genérico? ("sígueme" = malo / "guarda esto para el domingo que lo necesites" = bueno)
+**D7 — CTA**
+- ¿Existe un CTA?
+- ¿Es específico? ("guarda esto si lo necesitas" > "sígueme")
 - ¿Es de baja fricción? (la acción pedida, ¿cuesta poco hacerla?)
-- ¿Está conectado emocionalmente con el contenido del texto?
-- Problema detectado: [descripción]
+- ¿Conecta emocionalmente con lo que acaba de leer el usuario?
+- Puntuación: [X]/10
 
-**8. COHERENCIA DE FORMATO**
-- ¿El formato (párrafos, listas, longitud) es el adecuado para la plataforma?
+**D8 — COHERENCIA DE VOZ Y FORMATO**
 - ¿El tono es consistente de principio a fin?
-- Problema detectado: [descripción]
+- ¿El formato es el adecuado para la plataforma especificada?
+- ¿La voz es auténtica o parece copy de plantilla?
+- Puntuación: [X]/10
 
-**Presenta el diagnóstico en este formato:**
-
+**Presenta el diagnóstico:**
 ```
-## Diagnóstico de Copy
+## Diagnóstico de Copy — [plataforma/formato]
 
 FORTALEZAS:
-✓ [punto fuerte 1]
-✓ [punto fuerte 2]
+✓ [fortaleza 1 específica]
+✓ [fortaleza 2 específica]
 
-FALLOS CRÍTICOS (ordenados por impacto):
-⚠ HOOK: [descripción del problema + por qué está matando el engagement]
-⚠ CTA: [descripción del problema]
-⚠ [otro fallo si existe]
+FALLOS CRÍTICOS (por orden de impacto en resultados):
+⚠ [Dimensión]: [descripción exacta del problema y por qué está costando engagement]
+⚠ [Dimensión]: [...]
 
 PUNTUACIÓN ACTUAL:
-- Hook: [X]/10
-- Estructura: [X]/10
-- Emoción: [X]/10
-- CTA: [X]/10
-- Adecuación al formato: [X]/10
-- TOTAL: [X]/50
+D1 Hook: [X]/10 | D2 Promesa: [X]/10 | D3 Tensión: [X]/10 | D4 Especificidad: [X]/10
+D5 Emoción: [X]/10 | D6 Fricción: [X]/10 | D7 CTA: [X]/10 | D8 Voz: [X]/10
+TOTAL ACTUAL: [X]/80
 
-POTENCIAL ESTIMADO CON OPTIMIZACIÓN: [X]/50
+POTENCIAL CON OPTIMIZACIÓN: [X]/80
+IMPACTO ESTIMADO: [descripción de qué mejora concretamente — más saves, más comentarios, más clicks]
 ```
 
 ---
 
-### FASE 2: INVESTIGACIÓN DE REFERENCIA (si el tema lo requiere)
+### FASE 2: INVESTIGACIÓN DE REFERENCIA (si aporta valor)
 
-Si el copy habla de un tema/nicho específico, usa `WebSearch`:
-1. `"[tema] viral post hook formula [plataforma] 2025"`
-2. `"[nicho] best performing copy examples engagement"`
+Si el tema o nicho lo justifica, usa `WebSearch`:
+1. `"[tema] viral post copy formula [plataforma] 2025"`
+2. `"[nicho] best performing post hook examples engagement"`
 
-Extrae: ¿cómo hablan los mejores del nicho? ¿Qué vocabulario, qué referencias, qué nivel de vulnerabilidad?
+Extrae: vocabulario dominante del nicho, nivel de vulnerabilidad que funciona, referencias que resuena con la audiencia, palabras que aparecen en los posts más guardados/compartidos.
 
 ---
 
-### FASE 3: REESCRITURA CON FRAMEWORK APROPIADO
+### FASE 3: SELECCIÓN DE FRAMEWORK
 
-Selecciona el framework según el objetivo:
+Selecciona el framework según objetivo declarado:
 
-**Si objetivo = ENGAGEMENT / VIRALIDAD → Storytelling Personal Framework:**
+**STORYTELLING PERSONAL (objetivo: engagement, saves, viralidad emocional)**
 ```
-HOOK: Confesión / situación inesperada / dato disruptivo (1-3 líneas máx)
-TENSIÓN: La situación se complica o revela algo inesperado
-CONCEPTO: La idea principal expresada en 1 frase poderosa
-APLICACIÓN: Cómo se aplica a la vida del lector (3 ejemplos concretos)
-GIRO: La conclusión contraintuitiva o el insight que nadie dice
-CTA: Acción emocional, específica, de baja fricción
-```
-
-**Si objetivo = AUTORIDAD / EDUCATIVO → Value-First Framework:**
-```
-HOOK: Dato o afirmación que demuestra expertise + promesa de valor
-CONTEXTO: Por qué esto importa (el problema que resuelve)
-SISTEMA: 3-5 puntos concretos y accionables
-EVIDENCIA: Un ejemplo real o resultado específico
-SÍNTESIS: La frase que resume toda la idea en 15 palabras
-CTA: Guardar / comentar / aplicar
+HOOK: Confesión / situación inesperada / momento de vergüenza real [1-3 líneas]
+TENSIÓN: La situación se complica — algo inesperado o contradictorio
+CONCEPTO: La idea principal en 1 frase poderosa y memeable
+APLICACIÓN: 3 ejemplos concretos de cómo aplica a la vida del lector
+GIRO: La conclusión contraintuitiva que nadie dice
+CTA: Acción emocional específica y de baja fricción
 ```
 
-**Si objetivo = CONVERSIÓN → PAS + CTA Framework:**
+**VALUE-FIRST / EDUCATIVO (objetivo: autoridad, saves, seguidores)**
 ```
-PROBLEMA: Nombrar el dolor exacto (máx 2 líneas, muy específico)
-AGITACIÓN: Hacer que el lector sienta el coste de no resolver el problema
-SOLUCIÓN: Presentar la solución de forma clara y diferenciada
-PRUEBA: Evidencia, caso, dato o transformación específica
-CTA: Directo, sin ambigüedad, urgente pero no agresivo
+HOOK: Dato o afirmación que demuestra expertise + promesa de valor clara
+CONTEXTO: Por qué esto importa — el problema que resuelve
+SISTEMA: 3-5 puntos concretos y accionables (numerados)
+EVIDENCIA: Un ejemplo real, caso específico o resultado con números
+SÍNTESIS: La frase que resume todo en máx 15 palabras
+CTA: "Guarda esto" / "Comparte con [persona específica]"
 ```
 
-**Si objetivo = VIRALIDAD / PROVOCACIÓN → Contrarian Framework:**
+**PAS + CTA (objetivo: conversión, leads, ventas)**
+```
+PROBLEMA: El dolor exacto en términos del lector — muy específico, 2 líneas máx
+AGITACIÓN: El coste de no resolver el problema — emocional y concreto
+SOLUCIÓN: La solución diferenciada y clara
+PRUEBA: Evidencia, caso, dato o transformación con números
+CTA: Directo, urgente pero no agresivo, acción de 1 paso
+```
+
+**CONTRARIAN / PROVOCADOR (objetivo: viralidad, debates, compartidos)**
 ```
 HOOK: Afirmación que va contra el pensamiento dominante del nicho
-REHOOK: "Pero aquí está lo que nadie te dice..."
-POR QUÉ: Argumento sólido que justifica la posición
-EVIDENCIA: 1-2 ejemplos concretos
-IMPLICACIÓN: Qué cambia si el lector acepta esta idea
-CTA: Debate / comentario / guardar
+REHOOK: "Pero aquí está lo que nadie te dice..." — re-engancha a los escépticos
+ARGUMENTO: Razonamiento sólido que justifica la posición contraria
+EVIDENCIA: 1-2 ejemplos concretos, irrefutables
+IMPLICACIÓN: Qué cambia en la vida del lector si acepta esta idea
+CTA: "¿Estás de acuerdo?" / "¿Qué opinas?" — invita al debate
+```
+
+**TRANSFORMACIÓN (objetivo: inspiración, conversión emocional)**
+```
+ANTES: El estado de dolor inicial — escena específica y reconocible
+PUNTO DE INFLEXIÓN: El momento exacto que cambió todo
+DESPUÉS: El estado actual — concreto, con detalles sensoriales
+SISTEMA: Qué hizo posible la transformación — los 3 pasos o decisiones
+INVITACIÓN: El lector puede hacer lo mismo — CTA empático y accesible
 ```
 
 ---
 
-### FASE 4: GENERACIÓN DE MÚLTIPLES VERSIONES DE HOOK
+### FASE 4: GENERACIÓN DE 3 VERSIONES DE HOOK
 
-Para el hook específicamente, genera **3 versiones alternativas** con tipos distintos:
+Siempre genera 3 hooks alternativos con técnicas distintas:
 
 ```
-## 3 Opciones de Hook para "[tema]"
+## 3 Hooks Alternativos — "[tema]"
 
-OPCIÓN A — Hook de confesión/vulnerabilidad:
-"[texto]"
-Por qué funciona: [explicación de la palanca psicológica]
+HOOK A — Confesión/Vulnerabilidad:
+"[texto completo del hook]"
+Técnica: [nombre] | Palanca: [emoción que activa] | Por qué funciona: [explicación]
 
-OPCIÓN B — Hook de dato/afirmación disruptiva:
-"[texto]"
-Por qué funciona: [explicación]
+HOOK B — Dato/Afirmación Disruptiva:
+"[texto completo del hook]"
+Técnica: [nombre] | Palanca: [emoción que activa] | Por qué funciona: [explicación]
 
-OPCIÓN C — Hook de curiosity gap:
-"[texto]"
-Por qué funciona: [explicación]
+HOOK C — Curiosity Gap / Cliffhanger:
+"[texto completo del hook]"
+Técnica: [nombre] | Palanca: [emoción que activa] | Por qué funciona: [explicación]
 
-RECOMENDACIÓN: [cuál usar y por qué para este caso específico]
+RECOMENDACIÓN: Hook [A/B/C] para este caso porque [razón específica basada en la audiencia y objetivo].
 ```
 
 ---
 
-### FASE 5: ENTREGA DE LA VERSIÓN OPTIMIZADA COMPLETA
-
-Presenta el copy reescrito completo:
+### FASE 5: ENTREGA DEL COPY OPTIMIZADO COMPLETO
 
 ```
-## Copy Optimizado — [plataforma/formato]
-Framework aplicado: [nombre]
+## Copy Optimizado — [plataforma] | Framework: [nombre]
 
-─────────────────────────────────────
-[TEXTO COMPLETO REESCRITO]
-─────────────────────────────────────
+─────────────────────────────────────────
+[TEXTO COMPLETO REESCRITO — listo para publicar]
+─────────────────────────────────────────
 
 CAMBIOS PRINCIPALES:
-1. Hook cambiado de [tipo original] a [tipo nuevo] → razón
-2. [Cambio 2] → razón
-3. CTA cambiado de "[original]" a "[nuevo]" → razón
+1. Hook: de [tipo original] a [tipo nuevo] → [razón específica]
+2. [Cambio 2 con justificación]
+3. CTA: de "[original]" a "[nuevo]" → [razón basada en psicología del lector]
 
-PUNTUACIÓN PROYECTADA:
-- Hook: [X]/10
-- Estructura: [X]/10
-- Emoción: [X]/10
-- CTA: [X]/10
-- Adecuación al formato: [X]/10
-- TOTAL: [X]/50
+PUNTUACIÓN OPTIMIZADA:
+D1 Hook: [X]/10 | D2 Promesa: [X]/10 | D3 Tensión: [X]/10 | D4 Especificidad: [X]/10
+D5 Emoción: [X]/10 | D6 Fricción: [X]/10 | D7 CTA: [X]/10 | D8 Voz: [X]/10
+TOTAL: [X]/80 (era [anterior]/80)
 ```
 
 ---
 
-### FASE 6: ADAPTACIÓN MULTIPLATAFORMA (si aplica)
+### FASE 6: ADAPTACIÓN MULTIPLATAFORMA
 
-Si el usuario quiere el mismo copy para varias plataformas, adapta:
+Si el usuario quiere el mismo copy para varias plataformas:
 
-| Plataforma | Cambios clave |
-|-----------|---------------|
-| **Instagram caption** | Hook en línea 1 + salto → body → CTA. Máx 2200 chars pero óptimo 150-300. Emojis estratégicos (no decorativos). |
-| **Instagram carrusel slide** | Máx 10-15 palabras por slide. Hook = slide 1. Cada slide = una sola idea. |
-| **LinkedIn** | Más contexto permitido. Formato 1-línea-por-párrafo. Hook en línea 1 antes del "ver más". Termina con pregunta al lector. |
-| **Newsletter/email** | Subject line = hook más importante. Párrafos de máx 3 líneas. Conversacional. Un solo CTA al final. |
-| **YouTube description** | Primeras 2 líneas = hook (aparecen antes del "mostrar más"). Palabras clave naturales. CTA con timestamp o link. |
-| **Twitter/X** | Hook + desarrollo en 280 chars o hilo. Primera línea es todo. |
+**Instagram caption:**
+- Hook en línea 1 antes del salto de línea (lo que se ve sin "ver más")
+- Body: máx 300 palabras en el óptimo, con saltos de línea frecuentes
+- 1-3 hashtags máx al final (los hashtags en el cuerpo matan el ritmo)
+- CTA en última línea
+
+**Instagram carousel slide:**
+- Máx 10-15 palabras visibles por slide
+- Hook del carousel = slide 1
+- Slide 2 funciona de forma independiente (Instagram lo muestra como second chance)
+- Cada slide = una sola idea
+
+**LinkedIn:**
+- Hook en línea 1 — texto antes del "ver más" es lo único que la mayoría lee
+- Formato: una idea por párrafo, párrafos de 1-2 líneas, mucho espacio en blanco
+- Más contexto y datos permitidos que Instagram
+- Terminar con pregunta al lector (aumenta comentarios)
+- Sin hashtags en el cuerpo — al final o ninguno
+
+**Newsletter/Email:**
+- Subject line = el hook más importante de todo el email
+- Preview text = complemento del subject, no repetición
+- Párrafos de máx 3 líneas
+- Un solo CTA claro al final
+- Tono conversacional, como escribir a una persona
+
+**YouTube description:**
+- Primeras 2 líneas = hook (aparecen antes del "mostrar más")
+- Palabras clave naturales integradas
+- Timestamps para vídeos largos
+- CTA con link claro
 
 ---
 
-### FASE 7: VARIANTE PARA THUMBNAIL/PORTADA (si aplica)
+### FASE 7: EXTRACCIÓN PARA THUMBNAIL/PORTADA
 
-Si el copy va a acompañar un diseño visual, extrae:
+Si el copy acompañará un diseño visual, extrae siempre:
 
 ```
-## Texto para thumbnail/cover recomendado:
-"[3-5 palabras máximo]"
+## Texto para Thumbnail/Cover
 
-Power word utilizada: [palabra]
-Palanca psicológica: [curiosity gap / urgencia / beneficio / pregunta]
-Por qué funciona junto al diseño: [explicación]
+Propuesta: "[3-5 palabras máximo]"
+Power word: [palabra] — activa [emoción/curiosidad]
+Palanca psicológica: [curiosity gap / urgencia / beneficio / pregunta / dato]
+Justificación: [por qué estas palabras generan click]
+
+Alternativa A: "[opción 2]"
+Alternativa B: "[opción 3]"
 ```
+
+Si el usuario confirma que generará diseño → activar skill `/thumbnail` o `/carousel` con el copy optimizado como input.
 
 ---
 
-## REGLAS ABSOLUTAS DEL SISTEMA
+## REGLAS ABSOLUTAS
 
-1. **NUNCA dar feedback genérico** ("el hook podría ser mejor"). Siempre específico: qué está mal y por qué.
-2. **SIEMPRE entregar la versión reescrita completa**. El análisis sin reescritura no sirve.
-3. **SIEMPRE generar 3 versiones del hook**. El usuario necesita elegir, no adivinar.
-4. **NUNCA sacrificar autenticidad por fórmula**. Si el tono del original es la fortaleza, preservarlo.
-5. **El CTA siempre conecta emocionalmente** con lo que acaba de leer el usuario. No es un add-on.
-6. **Formato = parte del copy**. Los saltos de línea, la longitud de párrafo, y el ritmo son decisiones de copy.
-7. Si el copy original es excelente en algún aspecto, **decirlo explícitamente** antes de sugerir cambios.
+1. **NUNCA dar feedback genérico** ("el hook podría mejorar"). Siempre específico: qué falla, por qué, cómo arreglarlo.
+2. **SIEMPRE entregar el copy reescrito completo**. El diagnóstico sin reescritura no tiene valor.
+3. **SIEMPRE generar 3 versiones del hook**. El usuario necesita opciones reales para elegir.
+4. **NUNCA sacrificar la voz original** por una fórmula. Si el tono auténtico es la fortaleza, preservarlo en la reescritura.
+5. **El CTA siempre conecta emocionalmente** con el contenido. No es un add-on pegado al final.
+6. **El formato ES parte del copy**. Los saltos de línea, la longitud de párrafo y el ritmo son decisiones de copywriting.
+7. **Si el copy original tiene algo excelente, decirlo explícitamente** antes de los cambios. La confianza del usuario en su propio trabajo importa.
+8. **Siempre proponer pasar a `/thumbnail` o `/carousel`** si el copy optimizado va a acompañar un diseño visual.
